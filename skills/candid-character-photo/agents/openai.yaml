@@ -1,0 +1,4 @@
+interface:
+  display_name: "偶遇抓拍"
+  short_description: "用人物参考或角色描述生成自然、有距离感且构图丰富的日常模拟抓拍照片"
+  default_prompt: "用 $candid-character-photo 根据人物参考生成三张不同场景的偷拍感照片。"
